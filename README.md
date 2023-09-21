@@ -1,2 +1,2 @@
-# test_lab
-Test Golden lab course 
+# Github class for Golden lab folks
+
